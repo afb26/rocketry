@@ -2,7 +2,7 @@
 
 **4 May 2024**  
 Rocket: DSP (DualSeperationDePloyment, DigitalSignalProcessing)  
-Motor(s): AeroTech J435WS-13A  
+Motor(s): AeroTech J435WS-14A  
 Outcome: Flight report coming soon  
 ![Blue and White rocket](assets/DSP.jpeg)
 
