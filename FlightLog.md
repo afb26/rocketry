@@ -1,14 +1,20 @@
 # Flight Log
 
-**4 May 2024**  
+**24 August 2025**  
+Rocket: Benchmark  
+Motor(s): AeroTech J425R   
+Outcome: Success
+![Purple and White rocket](assets/Benchmark.jpeg)
+
+**4 May 2025**  
 Rocket: DSP (DualSeperationDePloyment, DigitalSignalProcessing)  
-Motor(s): AeroTech J435WS-14A  
+Motor(s): AeroTech J435WS   
 Outcome: Flight report coming soon  
 ![Blue and White rocket](assets/DSP.jpeg)
 
 **10 August 2024**  
 Rocket: ZOOOM  
-Motor(s): AeroTech H128W-14A  
+Motor(s): AeroTech H128W  
 Outcome: Success (nose cone tip lost)  
 ![Black, Yellow and White rocket](assets/ZOOOM.jpeg)
 
